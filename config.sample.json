@@ -1,0 +1,9 @@
+{
+    "documentId": "xxxxxxxxxxxxxxxxxxx",
+    "outputFormat": "urdf",
+    "onshape_api": "https://cad.onshape.com",
+    "onshape_access_key": "yyyyyyyyyyyyyyyyyyy",
+    "onshape_secret_key": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+    "packageName": "robot/model/",
+    "addDummyBaseLink": true
+}
